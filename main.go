@@ -17,6 +17,6 @@ func main() {
 		})
 	})
 
-	//mulai server dengan port 3000
-	router.Run(":3000")
+	//mulai server dengan port 80
+	router.Run(":80")
 }
